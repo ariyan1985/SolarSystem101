@@ -17,5 +17,12 @@ public class Main {
         xFact.radius="1000000000000km";
         xFact.heat="309876554440j";
 
+        //adding features for planet one
+        Planet1Feature Gulk= new Planet1Feature();
+        Gulk.color="Blue";
+        Gulk.size="383838383756649km";
+        Gulk.name="preacheX";
+        
+
     }
 }
